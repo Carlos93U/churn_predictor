@@ -1,7 +1,7 @@
 # me
 *.png
 *.jpg
-assets
+env
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
