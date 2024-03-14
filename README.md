@@ -65,7 +65,7 @@ pip install -r requirements.txt
 
 ## 4. Running
 
-* *Open a churn_predictor notebook *
+* *Open a churn predictor notebook*
 * *Run All*
 * *See outputs*
 
